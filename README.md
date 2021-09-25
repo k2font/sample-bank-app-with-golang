@@ -9,3 +9,8 @@
   - パッケージの作成と呼び出し
   - net/httpパッケージ
   - testingパッケージを用いたテストコードの記述
+
+## 動かし方
+```bash
+$ go run bankapi/main.go
+```
